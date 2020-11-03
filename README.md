@@ -1,5 +1,3 @@
-# sprouts-bean-mapper
+## 本工程是sprouts-bean-mapper的一个使用例子
 
-#### 介绍
-bean-mapper 解决不同属性名称bean的快捷复制问题
-
+请参考 [sprouts-bean-mapper工程](https://github.com/gs618/sprouts-bean-mapper)
